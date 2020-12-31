@@ -33,8 +33,8 @@ yarn build
 
 ## 效果图
 
-![Image](https://github.com/ihopefulChina/add-data-calculation-for-Taro/效果图.png)
+![Image](https://github.com/ihopefulChina/add-data-calculation-for-Taro/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 
 ## 实际 Demo
 
-![Image](https://github.com/ihopefulChina/add-data-calculation-for-Taro/demo.png)
+![Image](https://github.com/ihopefulChina/add-data-calculation-for-Taro/blob/main/demo.png)
