@@ -1,9 +1,0 @@
-/dist/
-deploy_versions/
-.temp/
-.rn_temp/
-out/
-/node_modules/
-yarn-error.log
-.DS_Store
-
